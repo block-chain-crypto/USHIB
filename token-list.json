@@ -1,6 +1,6 @@
 {
     "name": "USHIB",
-    "logoURI": "https://raw.githubusercontent.com/compound-finance/token-list/master/assets/asset_COMP.svg",
+    "logoURI": "https://raw.githubusercontent.com/block-chain-crypto/USHIB/main/log.jpg",
     "keywords": [
         "ushib",
         "USHIB",
@@ -21,7 +21,7 @@
         "name": "USHIB",
         "symbol": "USHIB",
         "decimals": 18,
-        "logoURI": "https://raw.githubusercontent.com/compound-finance/token-list/master/assets/asset_COMP.svg"
+        "logoURI": "https://raw.githubusercontent.com/block-chain-crypto/USHIB/main/log.jpg"
         }
       ],
       "version": {
