@@ -1,0 +1,32 @@
+{
+    "name": "USHIB",
+    "logoURI": "https://raw.githubusercontent.com/compound-finance/token-list/master/assets/asset_COMP.svg",
+    "keywords": [
+        "ushib",
+        "USHIB",
+        "USHIBA",
+        "ushiba",
+        "SHIB",
+        "shiba",
+        "SHIBA",
+        "shib",
+        "SB",
+        "sb"
+      ],
+      "timestamp": "2021-05-16T01:40:34.305Z",
+      "tokens": [
+        {
+        "chainId": 1,
+        "address": "0xAcbE4C60e0d65b32385fA8c9f0bF5823E045AA30",
+        "name": "USHIB",
+        "symbol": "USHIB",
+        "decimals": 18,
+        "logoURI": "https://raw.githubusercontent.com/compound-finance/token-list/master/assets/asset_COMP.svg"
+        }
+      ],
+      "version": {
+        "major": 0,
+        "minor": 0,
+        "patch": 0
+      }
+  }
